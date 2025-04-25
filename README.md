@@ -56,7 +56,7 @@ Make sure `tkinter` is installed (it is included with most Python distributions,
 
    ```bash
    git clone https://github.com/RiyazAbdul/Youtube-Slide-Slicer.git
-   cd crackerYoutube slide slicer
+   cd Youtube slide slicer
    ```
 
 2. **Install Dependencies**:
