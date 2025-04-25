@@ -1,7 +1,0 @@
-opencv-python
-pytesseract
-Pillow
-yt-dlp
-scikit-image  # Correct package name
-tk
-reportlab
